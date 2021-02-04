@@ -1,0 +1,178 @@
+
+body {
+    background-color: #ddf3f5;
+}
+
+.hepsi {
+    width: 821px;
+    height: auto;
+    margin: 20px auto;
+}
+
+.logo {
+    width: 229px;
+    height: 94px;
+    background: url(assets/images.png) no-repeat;
+    background-size:contain;
+}
+
+.menu {
+    width: 819px;
+    height: 42px;
+    background-color: #f2aaaa;
+}
+
+.orta {
+    width: 799px;
+    height: 730px;
+    background-color: white;
+    padding: 30px 0 0 20px;
+}
+
+.alt {
+    width: 821px;
+    height: 50px;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu ul li {
+    float: left;
+}
+
+.menu ul li a {
+    display: block;
+    width: 117px;
+    height: 50px;
+    background-color:  #f2aaaa;
+    color: white;
+    font: bold 12px tahoma;
+    text-decoration: none;
+    padding: 8px 0 0 0;
+    text-align: center;
+}
+
+.menu ul li a:hover {
+    color: rgb(255, 255, 255);
+    background-color: #e36387;
+}
+
+.orta1 {
+    width: 456px;
+    height: 30px;
+    padding: 0 0 0 40px;
+    float: left;
+    font: 20px tahoma; 
+    color: #24a4b7;
+}
+
+.yazi1 {
+    font: bold 24px tahoma;
+    color: #d95b27;
+}
+
+.orta2 {
+    width: 441px;
+    height: 153px;
+    background-color: #a6dcef;
+    float: left;
+    font: 15px tahoma;
+    color: black;
+    padding: 25px 40px 0 25px;
+    text-align: justify;
+    line-height: 20px;
+    border-radius: 10px;
+}
+
+.yazi2 {
+    font: bold 15px tahoma;
+    color: #d17750;
+}
+
+.readmore {
+    width: 63px;
+    height: 19px;
+    background: #e36387;
+    background-size:contain;
+    margin: 10px 0 0 350px;
+    padding: 4px 0 0 10px;
+    border-radius: 5px;
+}
+
+.readmore a {
+    font: bold 11px tahoma;
+    color: #fff;
+    text-decoration: none;
+}
+
+.readmore a:hover {
+    text-decoration: underline;
+}
+
+.orta3 {
+    width: 187px;
+    height: 265px;
+    float: left;
+    margin: -25px 0 0 60px;
+    background: url(assets/book.jpg) no-repeat;
+    background-size:contain;
+}
+
+.orta4 {
+    width: 466px;
+    height: 142px;
+    float: left;
+    background-color:  #a6dcef;
+    font: bold 13px tahoma;
+    padding: 10px 0 0 30px;
+    border-radius: 10px;
+}
+
+.orta5 {
+    width: 288px;
+    height: 153;
+    float: left;
+    background-color:  #a6dcef;
+    margin: 0 7px;
+    border-radius: 10px;
+}
+
+.orta5 td {
+    font: bold 11px tahoma;
+    color: black;
+}
+
+.orta5 td span {
+    font-size: 15px;
+}
+
+.orta6 {
+    width: 495px;
+    height: 275px;
+    float: left;
+    border-radius: 10px;
+    background-color:  #a6dcef;
+    margin: 10px 3px;
+}
+
+.orta7 {
+    width: 288px;
+    height: 275px;
+    float: left;
+    border-radius: 10px;
+    background-color:  #a6dcef;
+    margin: 10px 2px;
+}
+
+.not {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background: url(assets/aa.png) no-repeat;
+    background-size:contain;
+    
+}

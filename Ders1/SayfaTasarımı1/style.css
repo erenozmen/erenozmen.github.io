@@ -1,0 +1,90 @@
+/***** RESET *****/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, 
+h5, h6, p, blockquote, pre, a, abbr, acrontm, address, big, cite,
+code,del, dfm, em, font, img, ins, kbd, q, s, samp, small, strike,
+strong, sub, sup, tt, var, b, u, i, center,dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead,tr {
+   margin: 0;
+   padding: 0;
+   border: 0;
+   outline: 0;
+   /*font-size: 100%;
+   vertical-align: aseline;*/
+}
+html,body {
+    height: 100%;
+}
+body {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse; border-spacing: 0;
+}
+/*tables still need 'cellspacing="0"' in the markup */
+textarea {
+    overflow:auto;
+}
+/***** RESET *****/
+.hepsi {
+    width: 760px;
+    height: auto;
+    margin: 10px auto;
+}
+
+.menu {
+    width: 400px;
+    height: 50px;
+    background-color: rgb(141, 136, 136);
+}
+
+.ust {
+    width: 760px;
+    height: 150px; 
+    background-color: black;
+}
+
+.ortasol{
+    width: 445px;
+    height: 322px;
+    float: left;
+    margin: 0 0 0 20px;
+}
+
+.ortasag {
+    width: 295px;
+    height: 322px;
+    float: left;
+}
+
+.altsol {
+    width: 465px;
+    height: 98px;
+    float: left;
+}
+
+.altsag {
+    width: 295px;
+    height: 98px;
+    float: left;
+}
+
+.ustic {
+    width: 250px;
+    height: 30px;
+    margin: 60px 0 0 510px;
+    font: 20px verdana;
+    color: white;
+}
